@@ -8,7 +8,7 @@ use Illuminate\Foundation\Testing\DatabaseMigrations;
 use Illuminate\Foundation\Testing\WithFaker;
 use Illuminate\Foundation\Testing\RefreshDatabase;
 
-class HomeTest extends TestCase {
+class HomeAccessTest extends TestCase {
 
 	use DatabaseMigrations;
 	use RefreshDatabase;
